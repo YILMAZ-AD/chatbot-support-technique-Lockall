@@ -1,0 +1,50 @@
+[
+  {
+    "id": "CENTRE-PARIS13",
+    "categorie": "Centre",
+    "titre": "Coordonnées complètes — Lockall Paris 13",
+    "contenu": "Centre Lockall Paris 13. Adresse : 155 rue Nationale, 75013 Paris. Téléphone : 01 89 74 45 97. E-mail : paris13@lockall.fr. Horaires d'accès au box : tous les jours, de 6h à 23h. Horaires du service commercial : lundi, mardi, mercredi, jeudi et vendredi de 09h30 à 12h30 et de 13h30 à 18h30 ; samedi de 09h30 à 12h30 et de 13h30 à 17h30 ; dimanche fermé."
+  },
+  {
+    "id": "CENTRE-PARIS8",
+    "categorie": "Centre",
+    "titre": "Coordonnées complètes — Lockall Paris 8",
+    "contenu": "Centre Lockall Paris 8. Adresse : 190 boulevard Haussmann, 75008 Paris. Téléphone : 01 89 71 15 03. E-mail : paris8@lockall.fr. Horaires d'accès au box : tous les jours, de 6h à 23h. Horaires du service commercial : lundi, mardi, mercredi, jeudi et vendredi de 09h30 à 12h30 et de 13h30 à 18h30 ; samedi de 09h30 à 12h30 et de 13h30 à 17h30 ; dimanche fermé. Important : pour des raisons de sécurité, l'ouverture du box avec Rafter Access nécessite obligatoirement une connexion au Wi-Fi Lockall du centre de Paris 8."
+  },
+  {
+    "id": "CENTRE-VELIZY",
+    "categorie": "Centre",
+    "titre": "Coordonnées complètes — Lockall Vélizy-Villacoublay",
+    "contenu": "Centre Lockall Vélizy-Villacoublay. Adresse : 13 avenue Louis Breguet, 78140 Vélizy-Villacoublay. Téléphone : 01 89 71 30 72. E-mail : velizy@lockall.fr. Horaires d'accès au box : tous les jours, de 6h à 23h. Horaires du service commercial : lundi, mardi, mercredi, jeudi et vendredi de 09h30 à 12h30 et de 13h30 à 18h30 ; samedi de 09h30 à 12h30 et de 13h30 à 17h30 ; dimanche fermé."
+  },
+  {
+    "id": "CENTRE-SURESNES",
+    "categorie": "Centre",
+    "titre": "Coordonnées complètes — Lockall Suresnes",
+    "contenu": "Centre Lockall Suresnes. Adresse : 5 rue Marcel Monge, 92150 Suresnes. Téléphone : 01 89 71 30 75. E-mail : suresnes@lockall.fr. Horaires d'accès au box : tous les jours, de 6h à 23h. Horaires du service commercial : lundi, mardi, mercredi, jeudi et vendredi de 09h30 à 12h30 et de 13h30 à 18h30 ; samedi de 09h30 à 12h30 et de 13h30 à 17h30 ; dimanche fermé. Important : pour des raisons de sécurité, l'ouverture du box avec Rafter Access nécessite obligatoirement une connexion au Wi-Fi Lockall du centre de Suresnes."
+  },
+  {
+    "id": "CENTRE-POISSY",
+    "categorie": "Centre",
+    "titre": "Coordonnées complètes — Lockall Poissy",
+    "contenu": "Centre Lockall Poissy. Adresse : 47 avenue de Pontoise, 78300 Poissy. Téléphone : 01 89 71 61 94. E-mail : poissy@lockall.fr. Horaires d'accès au box : tous les jours, de 6h à 23h. Horaires du service commercial : lundi, mardi, mercredi, jeudi et vendredi de 09h30 à 12h30 et de 13h30 à 18h30 ; samedi de 09h30 à 12h30 et de 13h30 à 17h30 ; dimanche fermé."
+  },
+  {
+    "id": "CENTRE-LOGNES",
+    "categorie": "Centre",
+    "titre": "Coordonnées complètes — Lockall Lognes",
+    "contenu": "Centre Lockall Lognes. Adresse : 8 rue des Campanules, 77185 Lognes. Téléphone : 01 89 71 30 74. E-mail : lognes@lockall.fr. Horaires d'accès au box : tous les jours, de 6h à 23h. Horaires du service commercial : lundi, mardi, mercredi, jeudi et vendredi de 09h30 à 12h30 et de 13h30 à 18h30 ; samedi de 09h30 à 12h30 et de 13h30 à 17h30 ; dimanche fermé."
+  },
+  {
+    "id": "CENTRE-CERGY",
+    "categorie": "Centre",
+    "titre": "Coordonnées complètes — Lockall Cergy",
+    "contenu": "Centre Lockall Cergy. Adresse : 6 rue Francis Combe, 95000 Cergy. Téléphone : 01 89 71 49 67. E-mail : cergy@lockall.fr. Horaires d'accès au box : tous les jours, de 6h à 23h. Horaires du service commercial : lundi, mardi, mercredi, jeudi et vendredi de 09h30 à 12h30 et de 13h30 à 18h30 ; samedi de 09h30 à 12h30 et de 13h30 à 17h30 ; dimanche fermé."
+  },
+  {
+    "id": "CENTRE-ARGENTEUIL",
+    "categorie": "Centre",
+    "titre": "Coordonnées complètes — Lockall Argenteuil",
+    "contenu": "Centre Lockall Argenteuil. Adresse : 51 boulevard du Général Delambre, 95100 Argenteuil. Téléphone : 01 89 71 30 71. E-mail : argenteuil@lockall.fr. Horaires d'accès au box : tous les jours, de 6h à 23h. Horaires du service commercial : lundi, mardi, mercredi, jeudi et vendredi de 09h30 à 12h30 et de 13h30 à 18h30 ; samedi de 09h30 à 12h30 et de 13h30 à 17h30 ; dimanche fermé."
+  }
+]

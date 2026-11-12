@@ -1,0 +1,74 @@
+[
+  {
+  "id": "SUP-016",
+  "categorie": "Application",
+  "titre": "Le client ne parvient pas à ouvrir son box",
+  "contenu": "Demander au client quelle application il utilise. S'il utilise OneAccess, l'informer que cette application n'est plus utilisée et lui proposer un accompagnement pour installer et activer Rafter Access. Avant toute installation ou activation, vérifier qu'il a reçu le mail Lockall contenant le guide d'installation et le bouton jaune « Activer mon accès ». S'il n'a pas reçu ou ne retrouve plus ce mail, l'inviter à contacter le support technique au numéro indiqué sur sa facture afin de demander un nouvel envoi."
+  },
+  {
+    "id": "SUP-017",
+    "categorie": "Application",
+    "titre": "Le client n'a pas reçu le mail d'activation",
+    "contenu": "Le mail d'activation est nécessaire pour activer Rafter Access. Si le client ne l'a pas reçu ou ne le retrouve plus, il doit contacter le support technique au numéro indiqué sur sa facture. Ce numéro est réservé aux clients Lockall. Le support technique peut renvoyer le mail d'activation."
+  },
+  {
+    "id": "SUP-020",
+    "categorie": "Horaires",
+    "titre": "Horaires d'accès au box et coordonnées d'un centre",
+    "contenu": "L'accès aux box Lockall est possible tous les jours, de 6h à 23h. Si le client souhaite contacter un centre Lockall ou obtenir davantage d'informations, demander : « Quel centre souhaitez-vous contacter ? » Présenter les centres disponibles : Paris 13, Paris 8, Vélizy-Villacoublay, Suresnes, Poissy, Lognes, Cergy et Argenteuil. Une fois le centre choisi, fournir l'adresse, le numéro de téléphone, l'e-mail et les horaires du service commercial du centre concerné."
+  },
+  {
+    "id": "SUP-022",
+    "categorie": "Orientation commerciale",
+    "titre": "Questions commerciales : FAQ et contact d'un centre",
+    "contenu": "Pour toute question sur les tarifs, les tailles de box, les disponibilités, une réservation, une visite, un devis, un changement de box ou une demande commerciale, inviter le client à consulter la FAQ Lockall : https://www.lockall.fr/aide/. Proposer également de contacter directement le service commercial d'un centre Lockall pour une réponse plus précise. Demander : « Quel centre souhaitez-vous contacter ? » Présenter les centres disponibles : Paris 13, Paris 8, Vélizy-Villacoublay, Suresnes, Poissy, Lognes, Cergy et Argenteuil. Lorsque le client choisit un centre, fournir son adresse, son téléphone, son e-mail et les horaires du service commercial."
+  },
+  {
+    "id": "SUP-023",
+    "categorie": "Horaires",
+    "titre": "Différence entre accès au box et service commercial",
+    "contenu": "Si un client demande si un centre est ouvert sans préciser sa demande, lui demander : « Souhaitez-vous connaître les horaires d'accès à votre box ou les horaires du service commercial ? » L'accès aux box est possible tous les jours de 6h à 23h. Les horaires du service commercial dépendent du centre et sont indiqués dans la fiche de chaque centre."
+  },
+  {
+    "id": "SUP-024",
+    "categorie": "Application",
+    "titre": "Début d'accompagnement pour Rafter Access",
+    "contenu": "L'ancienne application OneAccess n'est plus utilisée. Rafter Access est la nouvelle application utilisée pour ouvrir les box Lockall depuis un smartphone. Si un client rencontre un problème avec OneAccess ou demande comment utiliser la nouvelle application, l'informer du changement puis lui proposer un accompagnement : « Souhaitez-vous que je vous guide pour installer et activer Rafter Access ? » Ne pas dérouler toutes les étapes d'installation, d'activation et d'ouverture du box dans une seule réponse."
+  },
+  {
+    "id": "SUP-025",
+    "categorie": "Application",
+    "titre": "Vérification du mail avant l'installation de Rafter Access",
+    "contenu": "Avant de guider un client dans l'installation ou l'activation de Rafter Access, demander : « Avez-vous reçu le mail Lockall contenant le guide d'installation et le bouton jaune “Activer mon accès” ? » Le mail est nécessaire pour l'activation. Si le client confirme qu'il possède le mail, l'orienter vers l'installation de Rafter Access. S'il ne l'a pas reçu ou ne le retrouve plus, l'inviter à contacter le support technique au numéro indiqué sur sa facture afin que le mail soit renvoyé."
+  },
+  {
+    "id": "SUP-026",
+    "categorie": "Application",
+    "titre": "Installation progressive de Rafter Access",
+    "contenu": "Si le client a reçu le mail Lockall, il peut installer Rafter Access depuis le lien présent dans ce mail ou rechercher « Rafter Access » sur l'App Store ou le Google Play Store. Après avoir expliqué l'installation, demander au client : « Une fois l'application installée, souhaitez-vous que je vous guide pour l'activer ? »"
+  },
+  {
+    "id": "SUP-027",
+    "categorie": "Application",
+    "titre": "Activation progressive de Rafter Access",
+    "contenu": "Pour activer Rafter Access, le client doit ouvrir l'application, accepter toutes les autorisations demandées, puis fermer complètement l'application. Il doit ensuite retourner dans le mail Lockall et cliquer sur le bouton jaune « Activer mon accès ». Rafter Access s'ouvre avec les identifiants préremplis ; le client doit cliquer sur « Connexion ». Après cette explication, proposer : « Souhaitez-vous que je vous explique comment ouvrir votre box avec l'application ? »"
+  },
+  {
+    "id": "SUP-028",
+    "categorie": "Application",
+    "titre": "Ouverture progressive du box avec Rafter Access",
+    "contenu": "Une fois connecté à Rafter Access, le client doit cliquer sur « Ouverture », faire défiler l'écran jusqu'en bas, puis appuyer sur « Ouverture de box ». L'accès aux box Lockall est possible tous les jours de 6h à 23h. Après cette explication, demander : « Avez-vous besoin d'aide pour autre chose ? »"
+  },
+  {
+  "id": "SUP-029",
+  "categorie": "Application",
+  "titre": "Ouverture du box à Suresnes et Paris 8 : connexion au Wi-Fi Lockall obligatoire",
+  "contenu": "Pour des raisons de sécurité, les clients des centres Lockall de Suresnes et de Paris 8 doivent être connectés au réseau Wi-Fi Lockall pour utiliser le bouton « Ouverture de box » dans l'application Rafter Access. Si le client se trouve dans l'un de ces deux centres et ne parvient pas à ouvrir son box, lui demander de se connecter au Wi-Fi Lockall, puis de revenir dans Rafter Access et de réessayer l'ouverture. Cette obligation concerne uniquement les centres de Suresnes et Paris 8. Pour les autres centres, ne pas indiquer que le Wi-Fi Lockall est obligatoire, sauf si une information spécifique est présente dans le contexte."
+  },
+  {
+  "id": "SUP-030",
+  "categorie": "Application",
+  "titre": "Où trouver le nom et le mot de passe du Wi-Fi Lockall ?",
+  "contenu": "Pour les centres Lockall de Suresnes et Paris 8, une connexion au Wi-Fi Lockall est nécessaire pour ouvrir son box avec l'application Rafter Access. Le nom du réseau Wi-Fi et le mot de passe sont affichés dans le hall d'entrée des box ou devant l'entrée de l'ascenseur. Si le client ne les trouve pas, il peut demander de l'aide à un collaborateur Lockall présent sur place. En cas de besoin, il peut également contacter le support technique au numéro indiqué sur sa facture ; ce numéro est réservé aux clients Lockall."
+  }
+]

@@ -1,0 +1,12 @@
+# Secrets : ne jamais publier
+.env
+.streamlit/secrets.toml
+
+# Environnement local
+env_rag/
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store

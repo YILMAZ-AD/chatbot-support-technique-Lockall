@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\Projet 11
+
+env_rag\Scripts\activate
+evaluate_ragas.py
+CLé api : oa_pk_UjwJUkrxJOFyexnVlZrWsmESkKPwyIvImaAdXSQzPLzyZmFlSyoIXOAeuytupIze
+
+pip check 
+pip freeze > requirements.txt
+
+similarité sémentique 
+
+bien comprendre faiss 
+
+utilisateur pose une question, le mot est transformer en vecteur, 
